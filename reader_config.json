@@ -1,0 +1,13 @@
+{
+  "font_size": 18,
+  "theme": "light",
+  "tts_rate": 230,
+  "tts_voice": "Albert",
+  "positions": {
+    "/Users/gaitianyu/Desktop/x/修真界败类.txt": {
+      "line": 4212,
+      "fraction": 0.07703166547621171
+    }
+  },
+  "tts_volume": 0.5
+}
